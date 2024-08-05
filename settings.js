@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "919074692450"
-global.ownername = "Abhishek Suresh"
+global.ownernomer = "27766438803"
+global.ownername = "۝T²K_Livo👨🏿‍💻۝" 
 global.ytname = "YT: Comedy Melody CH"
 global.socialm = "GitHub: DGXeon"
 global.location = "India, Kerala, Idukki"
 
-global.ownernumber = '919074692450'  //creator number
-global.ownername = 'Abhishek Suresh' //owner name
-global.botname = '𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
+global.ownernumber = '27766438803' //owner number
+global.ownername = '۝T²K_Livo👨🏿‍💻۝' //owner name
+global.botname = '⚠️☠️ ᜴࿆͆᷍Meliodas-V2 ᜴࿆͆᷍☠️⚠️' //name of the bot
 
 //sticker details
 global.packname = '🎯𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃'
@@ -24,7 +24,7 @@ global.wm = "©𝙰𝙱𝙷𝙸-𝙱𝚄𝙶-𝙱𝙾𝚃"
 global.link = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['-','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -45,13 +45,13 @@ global.typemenu = 'v2'
 //reply messages
 global.mess = {
     done: 'Done✅',
-    prem: 'This feature can be used by premium user only',
+    prem: 'This feature can be used by my master only😶‍🌫️',
     admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    botAdmin: 'This feature can only be used when I am an admin only',
+    owner: 'This feature can be used by my master only😶‍🌫️',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'Please Wait',    
+    wait: 'Loading, Please Wait...',    
     error: 'Error❌',
 }
 
